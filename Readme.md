@@ -19,26 +19,26 @@ La aplicación primero debe mostrar una lista de clientes con toda la informaci�
 
 **Maquetación de páginas:**
 
-https://marvelapp.com/4c5ja3d/screen/52151871 MARVEL
+
 
 **Punto final inicial para la inclusión:**
 
-HAZTE https://demo5283088.mockable.io/customers
+
 
 A partir de este punto, utilice localStorage/IndexedDB para conservar la información localmente.
 
 ## Lo que disfrutamos ++
-Retroalimentación visual al usuario (alertas, entradas...);
+* Retroalimentación visual al usuario (alertas, entradas...)
 
-Permitir edición;
+* Permitir edición
 
-Máximo HTML semántico posible;
+* Máximo HTML semántico posible
 
-CSS bien estructurado;
+* CSS bien estructurado
 
-Pruebas unitarias;
+* Pruebas unitarias
 
-Código limpio y bien organizado;
+* Código limpio y bien organizado
 
 ## Final
 * Envía tu propuesta para el proyecto que creaste en GitHub. Ejemplo: https://github.com/nombre_apellido;
