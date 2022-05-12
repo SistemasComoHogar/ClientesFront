@@ -40,14 +40,14 @@ Pruebas unitarias;
 
 Código limpio y bien organizado;
 
-Final
-Envía tu propuesta para el proyecto que creaste en GitHub. Ejemplo: https://github.com/seuNome;
+## Final
+* Envía tu propuesta para el proyecto que creaste en GitHub. Ejemplo: https://github.com/nombre_apellido;
 
-Envíanos el enlace de tu proyecto en un plazo de 7 días. Ejemplo: https://github.com/seuNome/test-frontEnd.git
+* Envíanos el enlace de tu proyecto en un plazo de 7 días. Ejemplo: https://github.com/nombre_apellido/test-frontEnd.git
 
-Espere a que RRHH se ponga en contacto con usted.
+* Espere a que RRHH se ponga en contacto con usted.
 
-A quién buscamos
+## A quién buscamos
 Queremos una persona a la que le guste lo que hace, que trabaje en equipo y quiera innovar. Siempre buscando soluciones actualizadas e innovadoras.
 
 Si te has identificado, ¡forma parte de nuestro equipo!
