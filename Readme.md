@@ -24,7 +24,7 @@ https://github.com/SistemasComoHogar/ClientesFront/blob/main/Referencias/Lista%2
 https://github.com/SistemasComoHogar/ClientesFront/blob/main/Referencias/Nuevo%20usuario.PNG
 
 
-**Punto final inicial para la inclusión:**
+**Importante para el listado de clientes:**
 
 
 
