@@ -18,7 +18,8 @@ El objetivo de esta prueba es evaluar sus conocimientos en organización, estilo
 La aplicación primero debe mostrar una lista de clientes con toda la información de acuerdo con el diseño. En segundo lugar, debe permitir la creación de un nuevo cliente.
 
 **Maquetación de páginas:**
-
+https://github.com/SistemasComoHogar/ClientesFront/blob/main/Referencias/Lista%20de%20usuarios.PNG
+https://github.com/SistemasComoHogar/ClientesFront/blob/main/Referencias/Nuevo%20usuario.PNG
 
 
 **Punto final inicial para la inclusión:**
