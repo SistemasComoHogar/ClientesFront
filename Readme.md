@@ -46,7 +46,7 @@ A partir de este punto, utilice localStorage/IndexedDB para conservar la informa
 ## Final
 * Envía tu propuesta para el proyecto que creaste en GitHub. Ejemplo: https://github.com/nombre_apellido;
 
-* Envíanos el enlace de tu proyecto en un plazo de 7 días. Ejemplo: https://github.com/nombre_apellido/test-frontEnd.git
+* Envíanos el enlace de tu proyecto en un plazo de 4 días. Ejemplo: https://github.com/nombre_apellido/test-frontEnd.git
 
 * Espere a que RRHH se ponga en contacto con usted.
 
