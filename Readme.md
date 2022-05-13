@@ -30,7 +30,7 @@ https://github.com/SistemasComoHogar/ClientesFront/blob/main/Referencias/Nuevo%2
 
 A partir de este punto, utilice localStorage/IndexedDB para conservar la información localmente.
 
-## Lo que disfrutamos ++
+## Lo que esperamos
 * Retroalimentación visual al usuario (alertas, entradas...)
 
 * Permitir edición
